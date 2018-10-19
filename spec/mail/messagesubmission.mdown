@@ -172,7 +172,7 @@ The following properties MUST be supported for sorting:
 
 - `emailId`
 - `threadId`
-- `sentAt`
+- `sendAt`
 
 ## EmailSubmission/queryChanges
 
